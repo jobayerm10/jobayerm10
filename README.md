@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jobayer Mahmud!
 
-### 🧑‍💻 Frontend Developer 
+###  Frontend Developer 
 
 You might saw me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I will not stop until I become the Web Development Hero.
 
@@ -19,14 +19,14 @@ You might saw me jumping, climbing buildings, and stopping trains. But nobody pa
 
 ---
 
-## 🔥 GitHub Stats
+##  GitHub Stats
 
 ![Jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayerm10&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerm10&layout=compact&theme=dracula)
 
 ---
 
-## 🌱 What I'm Learning
+##  What I'm Learning
 - 🔸 JavaScript (DOM, ES6, Functions, Arrays)
 - 🔸 Responsive Web Design
 - 🔸 JavaScript Frameworks (React.js coming soon!)
