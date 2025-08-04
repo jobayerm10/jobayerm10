@@ -19,18 +19,12 @@ You might saw me jumping, climbing buildings, and stopping trains. But nobody pa
 
 ---
 
-##  GitHub Stats
 
-![Jobayer's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobayerm10&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobayerm10&layout=compact&theme=dracula)
-
----
 
 ##  What I'm Learning
-- 🔸 JavaScript (DOM, ES6, Functions, Arrays)
-- 🔸 Responsive Web Design
-- 🔸 JavaScript Frameworks (React.js coming soon!)
-- 🔸 Git & GitHub Best Practices
+- 🔸 Clearing the frontend
+
+
 
 ---
 
@@ -42,7 +36,7 @@ You might saw me jumping, climbing buildings, and stopping trains. But nobody pa
 
 ---
 
-> ⚡ Fun Fact: I'm building my dream, one line of code at a time!
+I don’t need coffee — coding gives me dopamine.
 
 
 
