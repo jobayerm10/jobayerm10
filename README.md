@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Jobayer Mahmud!
 
-### 🧑‍💻 Frontend Developer | Passionate Coder | Lifelong Learner
+### 🧑‍💻 Frontend Developer 
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves building beautiful and functional web interfaces. I specialize in **HTML**, **CSS**, and **JavaScript**, and I'm currently learning modern JavaScript frameworks to level up my skills!
+You might saw me jumping, climbing buildings, and stopping trains. But nobody pays me a dime for that work. That's why I am learning and mastering web development. I will not stop until I become the Web Development Hero.
 
 ---
 
