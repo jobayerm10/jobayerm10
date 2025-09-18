@@ -8,7 +8,7 @@ You might saw me jumping, climbing buildings, and stopping trains. But nobody pa
 
 ## 📊 GitHub Stats with Grades
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobayerm10&show_icons=true&theme=radical)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jobayerm10&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jobayerm10&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jobayerm10&theme=radical&utcOffset=6)
